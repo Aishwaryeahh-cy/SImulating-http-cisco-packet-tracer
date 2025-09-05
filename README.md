@@ -28,10 +28,7 @@ Instead of reading dry theory, you can *see* how a client asks for a web page an
 
 ---
 
-## 📸 Sneak Peek
-(Add a screenshot here once you run the simulation)  
 
----
 
 ## 🤝 Contribution
 If you have cool ideas (like adding DNS, HTTPS, or multiple servers), feel free to fork and improve this project!  
